@@ -1,0 +1,3 @@
+# 2 - Crie um comentário de no máximo uma linha:
+
+# Esse é um comentário em Python.
