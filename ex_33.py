@@ -1,0 +1,8 @@
+# Crie um programa que realiza a contagem regressiva de 20 segundos:
+
+from time import sleep
+
+for contador in range(20, -1, -1):
+    print(contador)
+    sleep(1)
+    
